@@ -15,12 +15,14 @@ Post you answer on the [page for this pantherhash](http://pantherhash.com/ph_2/ 
 
 Hints
 ===
-No database posted yet
 
 **Hint 1**
+No database posted yet
+
+**Hint 2**
 
 http://en.wikipedia.org/wiki/Triangular_number
 
-**Hint 2**
+**Hint 3**
 
 ![Pantherhash](http://pantherhash.com/wp-content/uploads/2012/10/panterhash-150x150.png "Pantherhash")
