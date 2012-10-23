@@ -17,6 +17,10 @@ Hints
 ===
 No database posted yet
 
-Look for:
+Hint 1
+==
+http://en.wikipedia.org/wiki/Triangular_number
 
+Hint 2
+==
 ![Pantherhash](http://pantherhash.com/wp-content/uploads/2012/10/panterhash-150x150.png "Pantherhash")
