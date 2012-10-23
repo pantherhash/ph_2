@@ -5,11 +5,10 @@ A database, a query, a familiar paw.
 
 Riddle
 ===
-* Question: SELECT ??? FROM pantherhash WHERE ??? ORDER BY ??? LIMIT ???
-* Answer 1: SELECT ...
-* Answer 2: WHERE ...
-* Answer 3: ORDER BY ...
-* Answer 4: LIMIT ...
+
+```
+SELECT ??? FROM pantherhash WHERE ??? ORDER BY ??? LIMIT ???
+```
 
 Post you answer on the [page for this pantherhash](http://pantherhash.com/ph_2/ "SQL").
 
