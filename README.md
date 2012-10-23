@@ -1,7 +1,7 @@
 SQL
 ====
 
-PH 2: A database, a query, a familiar paw.
+A database, a query, a familiar paw.
 
 Riddle
 ===
